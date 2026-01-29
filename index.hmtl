@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Roach</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background: #ffffff;
+      color: #111111;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 720px;
+      margin: 80px auto;
+      padding: 0 24px;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 32px;
+      font-weight: normal;
+      margin-bottom: 24px;
+    }
+    p {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+    .book {
+      margin-top: 40px;
+      font-style: italic;
+    }
+    .quote {
+      margin-top: 40px;
+      font-size: 17px;
+      color: #333333;
+    }
+    .contact {
+      margin-top: 60px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Roach</h1>
+
+    <p>
+      Roach is a writer working in literary nonfiction. 
+    His work is built from direct experience and sustained observation, 
+    with an emphasis on honesty, restraint, and long-form attention. 
+    He is interested in what remains after survival—how meaning is formed, 
+    how memory settles, and how truth stands when it is no longer defended. 
+    His current manuscript, STRONG AND FREE, is a completed work that resists 
+    explanation and asks to be read on its own terms.
+    </p>
+
+    <p class="book">
+      <strong>STRONG AND FREE</strong><br>
+      STATUS - Completed manuscript
+    </p>
+
+    <p class="quote">
+      “Honesty is when you no longer need to protect yourself from what you know.”<br>
+      — Viktor Frankl
+    </p>
+
+    <p class="contact">
+      Contact: <a href=strongandfreethememoir@gmail.com</a>
+    </p>
+  </div>
+</body>
+</html>
